@@ -1,5 +1,4 @@
-/*Arindam Bhunia (17021), Physics Major, IISER Berhampur*/
-/* Assignment 1. Fixed Point Iteration*/
+/*Fixed Point Iteration*/
 
 #include<stdio.h>
 #include<math.h>
